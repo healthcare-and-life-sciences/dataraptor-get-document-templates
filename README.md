@@ -1,3 +1,4 @@
+![](/images/ahlsbanner.png)
 <h1 id='CaOACAwxHHG'>A-HLS - DataRaptor Library Documentation - DRgetDocumentTemplates</h1>
 
 <i>This DataRaptor acts as a base for developers to get information about available 'Active Document Templates'.</i><br/>
